@@ -1,0 +1,5 @@
+installer la librairie SDL : sudo apt-get install libsdl1.2-dev libsdl-image1.2-dev libsdl-ttf2.0-dev
+taper la commande  : cd G3 
+taper la commande  : cd s6
+taper la commande  : make 
+
